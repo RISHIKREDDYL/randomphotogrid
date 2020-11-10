@@ -1,0 +1,17 @@
+h1{
+	color: red;
+	font-family: playfair display;
+	font-weight: 800;
+	text-align: center;
+	text-decoration: underline;
+}
+img{
+	width: 30%;
+	float: left;
+	height: 400px;
+	margin: 1.6%;
+}
+footer{
+	text-align: center;
+	font-size: 15px;
+}
